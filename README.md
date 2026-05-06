@@ -1,8 +1,8 @@
-# 👋 Hi, I'm DivineAsg
+# 👋 Am DivineAsg
 
-💻 Aprendiendo programación  
+💻 Aprendendo programação
 🎮 Gamer  
-🔥 Mejorando cada día  
+🔥 Melhorando cada dia
 
 ---
 
@@ -14,25 +14,25 @@
 ## 🚀 Skills
 - Java ☕
 - HTML / CSS 🌐
-- Aprendiendo más...
+- Aprendendo mais...
 
 ---
 
-## 🌐 Idiomas
+## 🌐 Languages
 
 - English
 - Portuguese
-- Spanish(Working on...)
+- Spanish 
 
 
 ---
 
-## 💬 Sobre mí
-- Me gusta programar y mejorar mi lógica  
-- Me interesa el desarrollo y el gaming  
-- Siempre aprendiendo cosas nuevas  
+## 💬 About me
+- Gosto de programar
+- Gosto de desenvolvimento Web e Games  
+- Sempre aprendendo coisas novas
 
 ---
 
 ## ⚡ Fun fact
-> "El código funciona... no lo toques 💀"
+> "Sempre há algo que você possa evoluir! 💀"
