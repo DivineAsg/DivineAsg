@@ -29,18 +29,6 @@
 
 ---
 
-## ⚡ Fun fact
-> "Sempre há algo que você possa evoluir! 💀"
 
----
 
-## 🎧 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vqth62ldqxq4gylzsfdgqgsoee&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
-
----
-
-# 🔥 Streak
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DivineAsg&theme=github-dark)
-
----
 
