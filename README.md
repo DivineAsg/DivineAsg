@@ -27,6 +27,10 @@
 - Portuguese
 - Spanish 
 
+---
+
+## ⚡ Fun fact
+> "Sempre há algo que você possa evoluir! 💀"
 
 ---
 
@@ -36,9 +40,7 @@
 ---
 
 # 🔥 Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=DivineAsg&theme=dark&hide_border=true&locale=pt_BR&hide_current_streak=true)](https://git.io/streak-stats)
+![snake](https://github.com/DivineAsg/DivineAsg/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## ⚡ Fun fact
-> "Sempre há algo que você possa evoluir! 💀"
