@@ -36,7 +36,7 @@
 ---
 
 # 🔥 Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DivineAsg&theme=dark&background=121212&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DivineAsg&theme=dark&hide_border=true&locale=pt_BR&hide_current_streak=true)](https://git.io/streak-stats)
 
 ---
 
