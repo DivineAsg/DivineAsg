@@ -1,4 +1,4 @@
-# 👋 Am DivineAsg
+# 🎃 Am Arthur Santana Guerra 🎃
 
 💻 Aprendendo programação - 
 🎮 Gamer - 
