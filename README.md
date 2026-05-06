@@ -18,8 +18,12 @@
 
 ---
 
-## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DivineAsg&show_icons=true&theme=dark)
+## 🌐 Idiomas
+
+- English
+- Portuguese
+- Spanish(Working on...)
+
 
 ---
 
