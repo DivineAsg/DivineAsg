@@ -1,8 +1,8 @@
 # 👋 Am DivineAsg
 
-💻 Aprendendo programação 
-🎮 Gamer 
-🔥 Melhorando cada dia 
+💻 Aprendendo programação
+🎮 Gamer
+🔥 Melhorando cada dia
 
 ---
 
