@@ -6,8 +6,10 @@
 
 ---
 
-## 🎧 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vqth62ldqxq4gylzsfdgqgsoee&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+## 💬 About me
+- Gosto de programar
+- Gosto de desenvolvimento Web e Games  
+- Sempre aprendendo coisas novas
 
 ---
 
@@ -28,10 +30,8 @@
 
 ---
 
-## 💬 About me
-- Gosto de programar
-- Gosto de desenvolvimento Web e Games  
-- Sempre aprendendo coisas novas
+## 🎧 Now Playing
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vqth62ldqxq4gylzsfdgqgsoee&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
