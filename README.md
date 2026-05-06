@@ -40,7 +40,7 @@
 ---
 
 # 🔥 Streak
-![snake](https://github.com/DivineAsg/DivineAsg/blob/output/github-contribution-grid-snake.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DivineAsg&theme=github-dark)
 
 ---
 
