@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java, javascript, python**
 
-- 📝 I regularly write articles on [discord.com/elixirlab](discord.com/elixirlab)
+- 📝 I regularly write articles
 
 - 💬 Ask me about **Java**
 
