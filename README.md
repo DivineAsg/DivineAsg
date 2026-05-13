@@ -16,7 +16,7 @@
 ## 🚀 Skills
 - Java ☕
 - Python 🐍
-- HTML / CSS 🌐
+- Js / HTML / CSS 🌐
 - Aprendendo mais...
 
 ---
