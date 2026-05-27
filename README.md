@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **franquestine@gmail.com**
+- 📫 How to reach me **asgconta1@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/DivineAsg](https://github.com/DivineAsg)
 
