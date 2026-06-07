@@ -16,10 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/arthursantana001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arthursantana001" height="30" width="40" /></a>
-<a href="https://instagram.com/_.santana010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.santana010" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@divineasg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="divineasg" height="30" width="40" /></a>
-<a href="https://discord.gg/divinezinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="divinezinho" height="30" width="40" /></a>
+<a href="my.discord.is.h4x0w0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="divinezinho" height="30" width="40" /></a>
 </p>
 
 ---
