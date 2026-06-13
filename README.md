@@ -1,6 +1,8 @@
 <h3 align="center">A developer from Brazil</h3>
 
-<p align="left"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdivineasg" alt="divineasg" /> </p>
+## Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=DivineAsg&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🌱 I’m currently learning **Java, javascript, python**
 
