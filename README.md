@@ -36,6 +36,5 @@ A few focused tools:
 ---
 
 ### 🌀 Contribution
-​                   **d - i - v - i - n - e - a - s - g**
-
+​
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DivineAsg&theme=dark&hide_border=true)<br/>
