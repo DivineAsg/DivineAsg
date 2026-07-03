@@ -1,63 +1,41 @@
-<h3 align="center">A developer from Brazil</h3>
-
+<h2 style="font-size: 28px;">Hi there 👋🏽</h2>
 ## Profile Views
 
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=divineasg )
 
+<img align="right" src="https://octodex.github.com/images/spidertocat.png" width="200" style="margin-top:10px;">
 
-- 🌱 I’m currently learning **Java, javascript, python**
-
-- 📝 I regularly write articles
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **asgconta1@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/DivineAsg](https://github.com/DivineAsg)
-
-- ⚡ Fun fact **i like playing games**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://my.discord.is.h4x0w0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="divinezinho" height="30" width="40" /></a>
+<p>
+I build and break things to understand how they work — mostly around Linux, networking, and systems. Open source is where most of that ends up. I'm drawn to tools that are small, focused, and actually do what they say.
 </p>
+
+<hr/>
+
+### 🔧 Currently building / learning
+
+- Cloud fundamentals — understanding how cloud systems actually work beyond abstractions
+- Cloud security — learning how cloud environments are protected and attacked at a basic level
+- Linux systems — processes, permissions, internals, and system behavior
+- Networking — how data moves across systems and the internet
+- Computer science fundamentals — core concepts behind how systems and software are built
 
 ---
 
-<h3 align="left">Languages</h3>
-<p align="center">
+<img align="right" src="https://octodex.github.com/images/repo.png" width="200" style="margin-top:10px;">
 
-- Spanish 
-- English 
-- Portuguese
+### 📁 What's here
+- Experiments and side projects built out of curiosity
+- Repos that exist to make things work, not to look polished
+- Notes and comments left behind so future-me doesn't have to figure it out twice
 
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-</p>
+A few focused tools:
+- **DiscordCss** → discord quick css where u can change smth if you want, like hide.
+- **Cheat dll's** → My cheat dlls for paladins *(outdated)*
+- **Mini Database Engine** → A lightweight relational database engine written in C++17 with a modular architecture, SQL-like query language, and persistent storage. *(discontinued)*
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DivineAsg&theme=github-dark-blue&hide_border=true&border_radius=0&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
+### 🌀 Contribution
+​                   **d - i - v - i - n - e - a - s - g**
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DivineAsg&theme=dark&hide_border=true)<br/>
