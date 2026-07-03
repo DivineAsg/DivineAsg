@@ -1,6 +1,6 @@
 <h2 style="font-size: 28px;">Hi there 👋🏽</h2>
-## Profile Views
 
+<!-- Profile Views -->
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=divineasg )
 
 <img align="right" src="https://octodex.github.com/images/spidertocat.png" width="200" style="margin-top:10px;">
