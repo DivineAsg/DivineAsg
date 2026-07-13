@@ -29,7 +29,7 @@ I build and break things to understand how they work — mostly around Linux, ne
 - Notes and comments left behind so future-me doesn't have to figure it out twice
 
 A few focused tools:
-- **DiscordCss** → discord quick css where u can change smth if you want, like hide.
+- **DiscordCss** → Discord quick / css to modify discord to your own style.
 - **Mini Database Engine** → A lightweight relational database engine written in C++17 with a modular architecture, SQL-like query language, and persistent storage. *(discontinued)*
 
 ---
